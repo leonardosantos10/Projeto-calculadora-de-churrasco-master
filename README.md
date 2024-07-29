@@ -3,7 +3,6 @@
 <h4>calcular a quantidade de pessoas que compraram  carne e bebidas !!</h4>
 <p>  Descrição: Neste Projeto desenvolvi habilidades em Javascript:
   
-  - Lógica de Programação
   - funções com parâmetro
   - Funções com retorno,tipo booleano
   - funções que verificar números
