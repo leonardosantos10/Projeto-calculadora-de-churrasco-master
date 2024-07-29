@@ -14,4 +14,4 @@
 - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Js-logo"/>
   <br>
 <h3>Desenvolvido Tanto Para desktop e mobile!</h3>
-  <img src= "https://github.com/leonardosantos10/Projeto-jogo-do-numero-secreto/blob/main/img/img%20desktop.png?raw=true"/>
+  <img src= "https://github.com/leonardosantos10/Projeto-calculadora-de-churrasco-master/blob/main/img/img-desktop.png?raw=true"/>
